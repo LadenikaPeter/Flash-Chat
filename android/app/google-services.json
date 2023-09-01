@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "298682144921",
+    "project_id": "flash-chat-df425",
+    "storage_bucket": "flash-chat-df425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298682144921:android:73b53a7f04d0aac52f0008",
+        "android_client_info": {
+          "package_name": "com.peterladenika.my_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298682144921-3s7juebufns1ilh9rvnobt3d63eqhk0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnL2xCEDP6mNpb0K2brIoDck3gHmGKUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298682144921-3s7juebufns1ilh9rvnobt3d63eqhk0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298682144921:android:eef12ef3566c57a22f0008",
+        "android_client_info": {
+          "package_name": "peterladenika.com.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298682144921-3s7juebufns1ilh9rvnobt3d63eqhk0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnL2xCEDP6mNpb0K2brIoDck3gHmGKUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298682144921-3s7juebufns1ilh9rvnobt3d63eqhk0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
