@@ -1,4 +1,4 @@
-![MicrosoftTeams-image (4)](https://github.com/LadenikaPeter/Flash-chat/assets/106180758/8b39e5ca-9e2b-4bae-8779-35d693011e3d)# Flash-chat
+# Flash-chat
 
 A real time chat application that allows registered users to communicate with each other on the same platform.
 
